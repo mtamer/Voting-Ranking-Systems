@@ -1,4 +1,4 @@
-PHP-to-DB
+Voting-Ranking-Systems
 =========
 
 Connecting PHP to a DataBase
